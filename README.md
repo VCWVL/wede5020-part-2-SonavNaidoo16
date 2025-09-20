@@ -1,3 +1,5 @@
+Web development (WEDE5020)
+ST10473316
 FRC Tuned Website
 Project Summary
 The FRC Tuned Website is a multi-page site that adjusts to different devices, developed for FRC Tuned, a business in Durban, South Africa, specializing in performance tuning for vehicles. 

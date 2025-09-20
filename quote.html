@@ -130,7 +130,13 @@
     }
 
     /* Responsive adjustments */
-    @media(max-width:600px){.hero h2{font-size:28px}}
+    @media(max-width:600px){  
+      header{flex-direction:column;align-items:flex-start}
+      nav{margin-top:10px}
+      nav a{margin-left:0;margin-right:15px}
+      .total{flex-direction:column;align-items:flex-start;gap:10px}
+      .total div{width:100%;display:flex;justify-content:space-between}
+    }
   </style>
 </head>
 <body>
@@ -164,7 +170,7 @@
             <tr><td>Body Kit — Full</td><td class="price">R14,999</td></tr>
           </tbody>
         </table>
-        <p class="small">* Final price depends on vehicle model & parts. VAT not included.</p>
+        <p class="small">* Final price depends on vehicle model and parts.</p>
       </section>
 
       <!-- Build your quote card -->
@@ -254,9 +260,5 @@
   </script>
 </body>
 </html>
-  <!-- Footer for FRC -->
-  <footer>
-    <p>&copy; 2025 FRC Tuned | Durban, South Africa</p>
-  </footer>
 </body>
 </html>

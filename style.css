@@ -183,7 +183,7 @@ section {
 
 .about h1, .about h2 {
   font-family: 'Orbitron', sans-serif;
-  color: #f39c12;
+  color: rgb(255, 111, 0);
   margin-bottom: 15px;
 }
 

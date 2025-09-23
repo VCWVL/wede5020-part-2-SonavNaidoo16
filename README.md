@@ -85,6 +85,7 @@ This project is intended for educational and demonstration use. Feel free to adj
   <img width="1905" height="1027" alt="image" src="https://github.com/user-attachments/assets/7a0e8d4c-c3c7-4732-9cbc-db27a420bb53" />
   gallery page:
   <img width="1901" height="1023" alt="image" src="https://github.com/user-attachments/assets/e3f8513f-17b8-4c16-bfa9-6381a96d976d" />
+  <img width="1905" height="1026" alt="image" src="https://github.com/user-attachments/assets/dbfd20b5-7a04-4d9b-8e31-61a78f18b67d" />
   Contact page:
   <img width="1893" height="1027" alt="image" src="https://github.com/user-attachments/assets/d585fb5f-5e26-4e01-a862-f067a8e123f8" />
   <img width="1897" height="1023" alt="image" src="https://github.com/user-attachments/assets/eb0ea293-ff0f-4bec-8f42-7086b518689f" />

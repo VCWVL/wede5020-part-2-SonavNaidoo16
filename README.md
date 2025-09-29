@@ -105,3 +105,14 @@ This project is intended for educational and demonstration use. Feel free to adj
 - Updated navigation and layout to adapt to smaller screen sizes.
 - Tested website on desktop, tablet, and mobile views.
 - README updated with Part 2 documentation.
+
+## Responsive Design Evidence
+
+Below are screenshots showing the website across different devices:
+- Desktop view  <img width="1898" height="1029" alt="image" src="https://github.com/user-attachments/assets/6946cca6-f15d-424f-8c31-a8e4f2b45d54" /> )
+
+- Tablet view  <img width="1148" height="982" alt="image" src="https://github.com/user-attachments/assets/8fe0d3ed-6fc8-4118-9091-d2ed0d894e91" />
+
+- Mobile view  <img width="1151" height="975" alt="image" src="https://github.com/user-attachments/assets/c0479d0e-ed74-4d12-affd-a9b8f674bf18" />
+
+

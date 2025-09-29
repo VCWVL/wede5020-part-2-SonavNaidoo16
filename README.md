@@ -93,3 +93,15 @@ This project is intended for educational and demonstration use. Feel free to adj
   <img width="1897" height="1026" alt="image" src="https://github.com/user-attachments/assets/05258519-fd9f-46b2-8a65-b4144cfeb325" />
   Quote page:
   <img width="1912" height="1025" alt="image" src="https://github.com/user-attachments/assets/c3e2daae-331c-40f2-a9ae-9817a3fe1c78" />
+
+## Changelog (Part 2)
+- Added `style.css` external stylesheet and linked to all pages.
+- Applied CSS reset and base styles for consistent design.
+- Defined typography styles for headings, paragraphs, and links.
+- Implemented Flexbox and CSS Grid layouts for header, gallery, and content sections.
+- Styled buttons with hover and transition effects for interactivity.
+- Added responsive design with media queries for tablet (≤768px) and mobile (≤480px).
+- Ensured images are responsive using max-width and height auto adjustments.
+- Updated navigation and layout to adapt to smaller screen sizes.
+- Tested website on desktop, tablet, and mobile views.
+- README updated with Part 2 documentation.
